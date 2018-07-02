@@ -1,0 +1,9 @@
+{
+  "name": "reactjs-collapse",
+  "version": "1.0.0",
+  "description": "React collapsable component with transition effect",
+  "main": "Collapse.js",
+  "repository": "git@github.com:tranvansang/react-collapse.git",
+  "author": "Tran Sang <tranvansangk41@gmail.com>",
+  "license": "MIT"
+}
